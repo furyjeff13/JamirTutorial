@@ -1,0 +1,12 @@
+c:\users\fury\documents\visual studio 2015\Projects\Jamir\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\fury\documents\visual studio 2015\Projects\Jamir\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\fury\documents\visual studio 2015\Projects\Jamir\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\fury\documents\visual studio 2015\Projects\Jamir\ConsoleApplication1\obj\Debug\JamirTutorial.csprojResolveAssemblyReference.cache
+c:\users\fury\documents\visual studio 2015\Projects\Jamir\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\fury\documents\visual studio 2015\Projects\Jamir\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\Jamir\JamirTutorial\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\Jamir\JamirTutorial\obj\Debug\ConsoleApplication1.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\Jamir\JamirTutorial\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\Jamir\JamirTutorial\bin\Debug\ConsoleApplication1.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\Jamir\JamirTutorial\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\Jamir\JamirTutorial\obj\Debug\JamirTutorial.csprojResolveAssemblyReference.cache
